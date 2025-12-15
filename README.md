@@ -1,7 +1,7 @@
 # Hi there
 
 <div align="center">
-  <img src="giphy.gif" width="200"/>
+  <img src="giphy.gif" width="500"/>
 </div>
 
 ### 👨‍💻 Software Developer 
