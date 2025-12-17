@@ -55,6 +55,4 @@ Saya antusias dalam mempelajari teknologi baru dan membangun solusi digital. Saa
 - **Email:** [lazuardirafi59@gmail.com]
 - **Instagram:** [@rafilazuardiiiii]
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
 
