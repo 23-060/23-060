@@ -54,3 +54,10 @@ Saya antusias dalam mempelajari teknologi baru dan membangun solusi digital. Saa
 <!-- - **LinkedIn:** [Link Profil LinkedIn]  -->
 - **Email:** [lazuardirafi59@gmail.com]
 - **Instagram:** [@rafilazuardiiiii]
+
+<svg width="200" height="50">
+  <circle cx="25" cy="25" r="20" fill="yellow">
+    <animate attributeName="cx" from="25" to="175" dur="2s" repeatCount="indefinite" />
+  </circle>
+</svg>
+
