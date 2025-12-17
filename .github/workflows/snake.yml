@@ -8,10 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Nicoulas
+          github_user_name: "23-060"
           outputs: dist/snake.svg
 
       - uses: actions/upload-artifact@v3
