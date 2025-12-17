@@ -56,3 +56,4 @@ Saya antusias dalam mempelajari teknologi baru dan membangun solusi digital. Saa
 - **Instagram:** [@rafilazuardiiiii]
 
 
+![Snake animation](https://raw.githubusercontent.com/Nicoulas/Nicoulas/output/snake.svg)
